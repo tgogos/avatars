@@ -6,3 +6,5 @@ my avatars & backgrounds
 ![](./github_13665570.png)
 
 ![](./1500x500.jpg)
+
+![](./alexmaragos-pic.jpg)
